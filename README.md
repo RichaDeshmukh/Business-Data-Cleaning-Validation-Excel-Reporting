@@ -1,8 +1,8 @@
-# Part 1 - Business Data Cleaning, Validation & Excel Reporting
+# Business Data Cleaning, Validation & Excel Reporting
 
 ## Repository Information
 
-This repository contains the complete solution for **Part 1: Business Data Cleaning, Validation & Excel Reporting**.
+This repository contains the complete solution for ** Business Data Cleaning, Validation & Excel Reporting**.
 
 The objective was to clean, validate, and prepare a retail sales dataset for business analysis using Microsoft Excel.
 
